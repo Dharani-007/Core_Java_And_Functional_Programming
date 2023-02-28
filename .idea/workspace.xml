@@ -88,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677619000777</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added : Prime Factor">
+      <created>1677619728958</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677619728958</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added : Quotient And Remainder">
+      <created>1677620006921</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677620006921</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +112,8 @@
     <MESSAGE value="Added : Flip Coin" />
     <MESSAGE value="Added : Leap Year" />
     <MESSAGE value="Added : Power of two" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Power of two" />
+    <MESSAGE value="Added : Prime Factor" />
+    <MESSAGE value="Added : Quotient And Remainder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Quotient And Remainder" />
   </component>
 </project>
