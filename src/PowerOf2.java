@@ -1,6 +1,5 @@
 public class PowerOf2 {
-
-    public static void main(String args[] ) {
+    public static void main(String args[]) {
 // starts by parsing the integer
         int n = Integer.parseInt(args[0]);
 
